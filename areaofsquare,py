@@ -1,0 +1,4 @@
+#area of square
+s = int(input("Side ="))
+area = s*s
+print(area)
